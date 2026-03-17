@@ -1,6 +1,7 @@
 import "./App.css";
 import Counter from "./Counter";
 import Batsman from "./Batsman";
+import Users from './Users'
 
 function App() {
   function handleClick() {
@@ -19,6 +20,8 @@ function App() {
   return (
     <>
       <h3>Get started</h3>
+
+      <Users></Users>
 
       <Batsman></Batsman>
 

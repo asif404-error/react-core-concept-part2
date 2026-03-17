@@ -28,7 +28,7 @@ export default function Batsman() {
 
   return (
     <div>
-      <h3>Bangla Batsman</h3>
+      <h3>Player: Bangla Batsman</h3>
       <p>
         <small>Total Sixes: {sixes} </small> <br />
         <small>Total Fours: {fours} </small>
